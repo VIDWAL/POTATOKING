@@ -1,2 +1,2 @@
-# bounceOffAlgorithm
-Algorithm to bounce off two objects
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
